@@ -1,1 +1,3 @@
 Ik ben Warre Deprez en ik ben 19 jaar.
+
+Een verschil tussen git en github is dat git local is en github remote.
